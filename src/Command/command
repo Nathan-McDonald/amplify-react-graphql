@@ -1,0 +1,5 @@
+git config --global user.name “Nathan-McDonald”  
+git config --global user.email “nm00028@mix.wvu.edu”
+git init
+git add .
+git commit -m "initial commit"
